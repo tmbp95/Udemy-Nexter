@@ -9,10 +9,10 @@
 - [x] 003 Building the Overall Layout - Part 2
 - [x] 004 Building the Features Section - Part 1
 - [x] 005 Building the Features Section - Part 2
-- [ ] 006 Building the Story Section - Part 1
-- [ ] 007 Building the Story Section - Part 2
-- [ ] 008 Building the Homes Section - Part 1
-- [ ] 009 Building the Homes Section - Part 2
+- [x] 006 Building the Story Section - Part 1
+- [x] 007 Building the Story Section - Part 2
+- [x] 008 Building the Homes Section - Part 1
+- [x] 009 Building the Homes Section - Part 2
 - [ ] 010 Building the Gallery - Part 1
 - [ ] 011 Building the Gallery - Part 2
 - [ ] 012 Building the Footer
