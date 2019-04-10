@@ -13,9 +13,9 @@
 - [x] 007 Building the Story Section - Part 2
 - [x] 008 Building the Homes Section - Part 1
 - [x] 009 Building the Homes Section - Part 2
-- [ ] 010 Building the Gallery - Part 1
-- [ ] 011 Building the Gallery - Part 2
-- [ ] 012 Building the Footer
+- [x] 010 Building the Gallery - Part 1
+- [x] 011 Building the Gallery - Part 2
+- [x] 012 Building the Footer
 - [ ] 013 Building the Sidebar
 - [ ] 014 Building the Header - Part 1
 - [ ] 015 Building the Header - Part 2
