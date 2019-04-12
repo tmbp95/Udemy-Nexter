@@ -16,11 +16,11 @@
 - [x] 010 Building the Gallery - Part 1
 - [x] 011 Building the Gallery - Part 2
 - [x] 012 Building the Footer
-- [ ] 013 Building the Sidebar
-- [ ] 014 Building the Header - Part 1
-- [ ] 015 Building the Header - Part 2
-- [ ] 016 Building the Realtors Section
-- [ ] 017 Writing Media Queries - Part 1
-- [ ] 018 Writing Media Queries - Part 2
-- [ ] 019 Browser Support for CSS Grid
-- [ ] 020 Wrapping up the Nexter Project: Final Considerations
+- [x] 013 Building the Sidebar
+- [x] 014 Building the Header - Part 1
+- [x] 015 Building the Header - Part 2
+- [x] 016 Building the Realtors Section
+- [x] 017 Writing Media Queries - Part 1
+- [x] 018 Writing Media Queries - Part 2
+- [x] 019 Browser Support for CSS Grid
+- [x] 020 Wrapping up the Nexter Project: Final Considerations
